@@ -1,2 +1,6 @@
 work_dir
 apex
+data
+# data/nturgbd_raw/nturgb+d_skeletons
+# data/nturgbd_raw/nturgb+d_skeletons120
+.venv
