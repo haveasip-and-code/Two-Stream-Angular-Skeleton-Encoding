@@ -8,7 +8,6 @@ from torch.utils.data import Dataset, TensorDataset
 from numpy import inf
 import scipy.fftpack
 from feeders import tools
-sys.path.extend(['../'])
 
 class Feeder(Dataset):
     def __init__(self, data_path, label_path,
