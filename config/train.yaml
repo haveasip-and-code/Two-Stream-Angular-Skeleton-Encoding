@@ -1,6 +1,6 @@
 
 work_dir: ./work_dir/ntu120_xsub_2021_angular_train
-
+feature_combo: bone
 # feeder
 feeder: feeders.feeder.Feeder
 train_feeder_args:
@@ -57,4 +57,3 @@ optimizer: SGD
 
 eval_start: 1
 eval_interval: 5
-feature_combo: bone
