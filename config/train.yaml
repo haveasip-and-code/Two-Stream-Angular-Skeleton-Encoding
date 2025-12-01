@@ -57,3 +57,4 @@ optimizer: SGD
 
 eval_start: 1
 eval_interval: 5
+feature_combo: bone
